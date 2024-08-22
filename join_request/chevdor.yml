@@ -1,0 +1,56 @@
+collective: Potoc
+member:
+  name: Wilfried Kopp
+  address: 14EwWcBUoiwr91VcgeEHse7KuzivP4Zenez93MG89Sazywe
+  matrix: "@chevdor:matrix.org"
+  github: chevdor
+  rank: 1
+date: 2024-08-22
+about: |
+  I am Wilfried Kopp, aka. Chevdor.  I started working on Polkadot tooling in 2019 (srtool).
+  I mainly focus on tooling to increase ease of use and efficiency, also allowing transparency via determinism.
+motivation: |
+  My motivation is to help dev and users feeling safe and confident in a trustless environment.
+evidence:
+  - title: srtool
+    category: core_tooling
+    tasks:
+      - title: Creation, maintenance and support since 2019
+        links:
+          - https://github.com/paritytech/srtool/commits/master/?author=chevdor
+
+  - title: subwasm
+    category: core_tooling
+    tasks:
+      - title: subwasm
+        links:
+          - https://github.com/chevdor/subwasm
+
+  - title: srtool-actions
+    category: core_tooling
+    tasks:
+      - title: The GitHub Action for srtool
+        links:
+          - https://github.com/chevdor/srtool-actions
+
+  - title: subrpc
+    category: core_tooling
+    tasks:
+      - title: Creation and feeding of data to subrpc
+        links:
+          - https://github.com/chevdor/subrpc
+
+  - title: submig
+    category: core_tooling
+    tasks:
+      - title: submig to analyze migrations
+        links:
+          - https://github.com/chevdor/submig
+
+  - title: confmgr
+    category: core_tooling
+    tasks:
+      - title: confmgr is a typscript library to manage configuration, used various tools incl. sidecar, the testnet faucet, etc...
+        links:
+          - https://github.com/paritytech/substrate-api-sidecar/blob/master/package.json#L58
+          - https://github.com/paritytech/polkadot-testnet-faucet/blob/main/package.json#L63
