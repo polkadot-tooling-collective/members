@@ -1,0 +1,56 @@
+collective: Potoc
+member:
+  name: Dominique Saripapazoglou
+  address: 1214yACPpRCDG5EU96VBMQycowiJh5F8czmqoV9yLPN5UcgU
+  github: Imod7
+  matrix: '"@dominique:parity.io"'
+  rank: 0
+date: 2024-10-10T12:21:05.063Z
+about: Hello, I am Dominique, and I am working at Parity since January 2022. I
+  started as an Integration Support Engineer, helping (on the technical side)
+  various exchanges, custodians, and wallets in integrating with the Polkadot
+  ecosystem. Currently, my focus is more on the tooling side, and I am a
+  maintainer of the Substrate-API-Sidecar. I have also helped to various
+  Polkadot hackathons and participated in educational Deep Dive videos. Before
+  joining Parity, I was coding in C, object-oriented Python, and (regrettably)
+  PHP, and also worked in Data Analytics positions. I studied Computer Science
+  in Athens, Greece and started a Business Finance degree which I haven't
+  completed since I moved abroad. I have a strong interest in code testing and
+  code security.
+motivation: My motivation for joining the Tooling Fellowship is to further
+  contribute to the tooling side of Polkadot, so that these tools help/support
+  other teams in integrating with the ecosystem. The open-source nature of all
+  the code in Polkadot repositories aligns deeply with my values. I also believe
+  that increasing the number of non-male contributors can bring a positive and
+  valuable impact to the ecosystem.
+evidence:
+  - title: Substrate-API-Sidecar
+    category: core_tooling
+    tasks:
+      - title: Maintainer
+        links:
+          - https://github.com/paritytech/substrate-api-sidecar/pulls?q=is%3Apr+author%3AImod7+
+  - title: txwrapper-core
+    category: core_tooling
+    tasks:
+      - title: Contributor
+        links:
+          - https://github.com/paritytech/txwrapper-core/pulls?q=is%3Apr+author%3AImod7+
+  - title: asset-transfer-api
+    category: core_tooling
+    tasks:
+      - title: Contributor
+        links:
+          - https://github.com/paritytech/asset-transfer-api/pulls?q=is%3Apr+author%3AImod7
+  - title: polkadot-wiki
+    category: core_tooling
+    tasks:
+      - title: Contributor in Docs
+        links:
+          - https://github.com/w3f/polkadot-wiki/pulls?q=is%3Apr+author%3AImod7+
+  - title: substrate-js-dev
+    category: core_tooling
+    tasks:
+      - title: Contributor
+        links:
+          - https://github.com/paritytech/substrate-js-dev/pulls?q=is%3Apr+author%3AImod7
