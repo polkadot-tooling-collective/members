@@ -1,0 +1,22 @@
+collective: Potoc
+member:
+  name: Jesse Chejieh
+  address: 12zsKEDVcHpKEWb99iFt3xrTCQQXZMu477nJQsTBBrof5k2h
+  github: doordashcon
+  matrix: "@doordashcon/:matrix.org"
+  rank: 0
+date: 2025-01-27T22:00:00.000Z
+about: Mechanical Engineering Bachelors, polkadot fellowship member, previous maintainer 
+  of sc-simnode.
+  Started my journey in the ecosystem in 2021, with initial PRs to polkadot, 
+  cumulus and substrate.
+motivation: Polkadot is the endgame for blockchain technology—a scalable, interoperable, 
+  and secure ecosystem that empowers developers to create the next generation of decentralized applications. 
+  More Web2 developers are migrating onchain and i would like to join the permissionless team easing that transition.
+evidence:
+  - title: sc-simnode
+    category: Substrate-based runtime simulation testing(core-tooling)
+    tasks:
+      - title: Maintenance.
+        links:
+          - https://github.com/polytope-labs/sc-simnode/pulls?q=is%3Apr+is%3Aclosed+is%3Amerged+author%3Adoordashcon+
